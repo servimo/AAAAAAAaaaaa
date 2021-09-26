@@ -1,2 +1,2 @@
 # AAAAAAAaaaaa
-An EasyEffects preset for my Earbud
+An EasyEffects preset for my Earbuds
