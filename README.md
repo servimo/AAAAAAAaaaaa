@@ -19,7 +19,6 @@ Move "AAAAAAAaaaaa.json" files to:
 
 or
 <code>~/.var/app/com.github.wwmm.EasyEffects/config/easyeffects/output</code>
-
 depending on how you installed EasyEffects.
 
 
@@ -29,7 +28,6 @@ Drop "Accudio ((48kHz Z.E.)) Earpods HIFI.irs" file here :
 
 or
 <code>~/.var/app/com.github.wwmm.EasyEffects/config/easyeffects/irs</code>
-
 depending on how you installed EasyEffects.
 
 The convolver must be loaded manually, convolver will show an error loading file.
