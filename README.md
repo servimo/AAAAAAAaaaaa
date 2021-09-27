@@ -13,7 +13,7 @@ Installation:
 
 Move "AAAAAAAaaaaa.json" files to
 
-~/.config/easyeffects/output
+<code>~/.config/easyeffects/output</code>
 
 or
 
