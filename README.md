@@ -11,7 +11,7 @@ Plugins enabled:
 
 Installation:
 
-Move AAAAAAAaaaaa.json files to
+Move "AAAAAAAaaaaa.json" files to
 
 ~/.config/easyeffects/output
 
@@ -22,7 +22,7 @@ or
 depending on how you installed EasyEffects.
 
 
-Drop Accudio ((48kHz Z.E.)) Earpods HIFI.irs file here :
+Drop "Accudio ((48kHz Z.E.)) Earpods HIFI.irs" file here :
 
 ~/.config/easyeffects/irs/
 
