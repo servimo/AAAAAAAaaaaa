@@ -1,15 +1,7 @@
 # AAAAAAAaaaaa
 An EasyEffects preset for my Earbuds
 
-Plugins enabled:
-- Limiter
-- Convolver
-- Equalizer (15 bands, High Shelf)
-- Bass Enhancer
-- Compressor
-- Crossfeed
-
-
+Plugins enabled: Limiter, Convolver, Equalizer (15 bands, High Shelf), Bass Enhancer, Compressor and Crossfeed.
 
 To Install:
 
