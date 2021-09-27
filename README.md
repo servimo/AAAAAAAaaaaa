@@ -9,6 +9,13 @@ Plugins enabled:
 - Compressor
 - Crossfeed
 
+Installation:
+Move AAAAAAAaaaaa.json files to
+~/.config/easyeffects/output
+or
+~/.var/app/com.github.wwmm.EasyEffects/config/easyeffects/output
+depending on how you installed EasyEffects.
+
 The convolver must be loaded manually, convolver will show an error loading file.
 The convolver impulse is from https://forum.xda-developers.com/t/irs-zhuhangs-irs-impulse-response-samples.2442933/ "Golden Ears Accudio (Z-Edition) - Headphone Correction & Simulations"
 
