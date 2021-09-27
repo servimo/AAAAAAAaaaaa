@@ -29,7 +29,6 @@ Drop "Accudio ((48kHz Z.E.)) Earpods HIFI.irs" file here :
 <code>~/.config/easyeffects/irs/</code>
 
 or
-
 <code>~/.var/app/com.github.wwmm.EasyEffects/config/easyeffects/irs</code>
 
 depending on how you installed EasyEffects.
