@@ -9,7 +9,7 @@ Plugins enabled:
 - Compressor
 - Crossfeed
 
-Installation:
+To Install:
 
 Move "AAAAAAAaaaaa.json" files to
 
