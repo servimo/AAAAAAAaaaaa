@@ -10,6 +10,7 @@ Plugins enabled:
 - Crossfeed
 
 Installation:
+
 Move AAAAAAAaaaaa.json files to
 ~/.config/easyeffects/output
 or
