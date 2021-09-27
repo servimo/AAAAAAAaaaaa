@@ -17,18 +17,18 @@ Move "AAAAAAAaaaaa.json" files to
 
 or
 
-~/.var/app/com.github.wwmm.EasyEffects/config/easyeffects/output
+<code>~/.var/app/com.github.wwmm.EasyEffects/config/easyeffects/output</code>
 
 depending on how you installed EasyEffects.
 
 
 Drop "Accudio ((48kHz Z.E.)) Earpods HIFI.irs" file here :
 
-~/.config/easyeffects/irs/
+<code>~/.config/easyeffects/irs/</code>
 
 or
 
-~/.var/app/com.github.wwmm.EasyEffects/config/easyeffects/irs
+<code>~/.var/app/com.github.wwmm.EasyEffects/config/easyeffects/irs</code>
 
 depending on how you installed EasyEffects.
 
