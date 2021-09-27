@@ -11,7 +11,7 @@ Plugins enabled:
 
 To Install:
 
-Move "AAAAAAAaaaaa.json" files to
+Move "AAAAAAAaaaaa.json" files to:
 
 <code>~/.config/easyeffects/output</code>
 
