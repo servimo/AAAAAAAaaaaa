@@ -18,7 +18,6 @@ Move "AAAAAAAaaaaa.json" files to:
 <code>~/.config/easyeffects/output</code>
 
 or
-
 <code>~/.var/app/com.github.wwmm.EasyEffects/config/easyeffects/output</code>
 
 depending on how you installed EasyEffects.
