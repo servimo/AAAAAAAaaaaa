@@ -5,7 +5,7 @@ Plugins enabled: Limiter, Convolver, Equalizer (15 bands, High Shelf), Bass Enha
 
 To Install:
 
-Move "AAAAAAAaaaaa.json" file to:
+1- Move "AAAAAAAaaaaa.json" file to:
 
 <code>~/.config/easyeffects/output</code>
 
@@ -14,7 +14,7 @@ or
 depending on how you installed EasyEffects (flatpak).
 
 
-Drop "Accudio ((48kHz Z.E.)) Earpods HIFI.irs" file here :
+2- Drop "Accudio ((48kHz Z.E.)) Earpods HIFI.irs" file here :
 
 <code>~/.config/easyeffects/irs/</code>
 
