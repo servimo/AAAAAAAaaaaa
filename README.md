@@ -12,9 +12,13 @@ Plugins enabled:
 Installation:
 
 Move AAAAAAAaaaaa.json files to
+
 ~/.config/easyeffects/output
+
 or
+
 ~/.var/app/com.github.wwmm.EasyEffects/config/easyeffects/output
+
 depending on how you installed EasyEffects.
 
 The convolver must be loaded manually, convolver will show an error loading file.
