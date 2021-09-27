@@ -1,6 +1,7 @@
 # AAAAAAAaaaaa
 An EasyEffects preset for my Earbuds
 
+Plugins enabled:
 - Limiter
 - Convolver
 - Equalizer (15 bands, High Shelf)
