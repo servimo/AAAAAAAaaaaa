@@ -13,7 +13,7 @@ Plugins enabled:
 
 To Install:
 
-Move "AAAAAAAaaaaa.json" files to:
+Move "AAAAAAAaaaaa.json" file to:
 
 <code>~/.config/easyeffects/output</code>
 
