@@ -21,7 +21,7 @@ or
 
 depending on how you installed EasyEffects.
 
-Drop IRS file here :
+Drop Accudio ((48kHz Z.E.)) Earpods HIFI.irs file here :
 
 ~/.config/easyeffects/irs/
 
