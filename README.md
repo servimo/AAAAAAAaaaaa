@@ -11,7 +11,7 @@ Move "AAAAAAAaaaaa.json" file to:
 
 or
 <code>~/.var/app/com.github.wwmm.EasyEffects/config/easyeffects/output</code>
-depending on how you installed EasyEffects.
+depending on how you installed EasyEffects (Flatpak).
 
 
 Drop "Accudio ((48kHz Z.E.)) Earpods HIFI.irs" file here :
@@ -20,7 +20,7 @@ Drop "Accudio ((48kHz Z.E.)) Earpods HIFI.irs" file here :
 
 or
 <code>~/.var/app/com.github.wwmm.EasyEffects/config/easyeffects/irs</code>
-depending on how you installed EasyEffects.
+depending on how you installed EasyEffects (Flatpak)(.
 
 The convolver must be loaded manually, convolver will show an error loading file.
 The convolver impulse is from https://forum.xda-developers.com/t/irs-zhuhangs-irs-impulse-response-samples.2442933/ "Golden Ears Accudio (Z-Edition) - Headphone Correction & Simulations"
